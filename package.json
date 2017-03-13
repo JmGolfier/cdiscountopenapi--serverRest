@@ -1,0 +1,19 @@
+{
+  "name": "chift-server",
+  "version": "0.0.1",
+  "description": "chift-server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:yohan_rodriguez/chift-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongojs": "^0.15.1",
+    "restify": "^2.8.3"
+  }
+}
